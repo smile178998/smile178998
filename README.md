@@ -6,7 +6,7 @@
       <img src="anime-aaaa.gif" width="180" alt="Anime Yelling" />
     </td>
     <td valign="middle">
-      <h2>BYE BYE</h2>
+      <h2>My Introduction web</h2>
       <p>BYE BYE</p>
       <br />
       <a href="https://www.songjieli.xyz/">
