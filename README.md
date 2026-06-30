@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<table align="center" data-header-visible="false">
+<table align="center">
   <tr>
-    <td align="center" width="220">
-      <img src="https://media.tenor.com/71Lq6-XyX-8AAAAC/anime-aaaa.gif" width="180" alt="Anime Coding" />
+    <td align="center" valign="middle" width="220">
+      <img src="https://i.postimg.cc/8zQ2Xb7w/anime-aaaa.gif" width="180" alt="Anime Yelling" />
     </td>
     <td valign="middle">
       <h2>Hi, I'm SONGJIE LI 👋</h2>
