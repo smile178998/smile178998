@@ -3,10 +3,10 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="220">
-      <img src="https://i.postimg.cc/8zQ2Xb7w/anime-aaaa.gif" width="180" alt="Anime Yelling" />
+      <img src="anime-aaaa.gif" width="180" alt="Anime Yelling" />
     </td>
     <td valign="middle">
-      <h2>Hi, I'm SONGJIE LI 👋</h2>
+      <h2>BYE BYE</h2>
       <p>A security-minded developer who builds what others can't break.</p>
       <br />
       <a href="https://www.songjieli.xyz/">
@@ -15,5 +15,4 @@
     </td>
   </tr>
 </table>
-
 
