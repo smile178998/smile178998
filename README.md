@@ -5,6 +5,10 @@
     <td align="center" valign="middle" width="220">
       <img src="anime-aaaa.gif" width="180" alt="Anime Yelling" />
     </td>
+       <h3>📫 Contact</h3>
+      <p>
+        Email: <a href="mailto:your@email.com">your@email.com</a>
+      </p>
     <td valign="middle">
       <h2>My Introduction web</h2>
       <p>BYE BYE</p>
