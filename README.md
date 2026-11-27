@@ -2,8 +2,6 @@
 
 <table align="center">
   <tr>
-    <td align="center" valign="middle" width="220">
-    </td>
     <td valign="middle">
       <h2>Nothing Here</h2>
       <p>BYE BYE</p>
