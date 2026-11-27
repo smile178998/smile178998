@@ -3,10 +3,9 @@
 <table align="center">
   <tr>
     <td align="center" valign="middle" width="220">
-      <img src="anime-aaaa.gif" width="180" alt="Anime Yelling" />
     </td>
     <td valign="middle">
-      <h2>My Introduction web</h2>
+      <h2>Nothing Here</h2>
       <p>BYE BYE</p>
       <br />
       <a href="utftd://aoo.fozkumwdv.xkd/dyuurse">
